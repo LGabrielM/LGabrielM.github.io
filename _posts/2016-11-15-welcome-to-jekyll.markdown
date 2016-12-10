@@ -4,7 +4,11 @@ title:  "Welcome to Jekyll!"
 date:   2016-11-15 23:45:33 -0600
 categories: jekyll update
 ---
+<<<<<<< HEAD
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a [web](google.com) server and auto-regenerates your site when a file is updated.
+=======
+You’ll find this post in your `_posts` directory. Go ahead and edit it I'M EDITING and re-build AND REBUILDINGthe site to see your changes. AAAAAAAAAAAAA You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+>>>>>>> 5394d3cfa950836da1114f810e50eb859d3f9bec
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
