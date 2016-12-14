@@ -25,7 +25,7 @@ url: "http://arkadianriver.com" # the base hostname & protocol for your site
 # - set the greeting only if you want to display the first green section
 greeting:
   title: Welcome to Aude esse Magni!  
-  text: A community that strive to make our world a better place for everyone.
+  text: A community that strives to make our world a better place.
 # - title for your blog's featured posts
 features-title: Important topics
 # - displayed at the bottom
