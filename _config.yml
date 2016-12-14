@@ -25,12 +25,12 @@ url: "http://arkadianriver.com" # the base hostname & protocol for your site
 # - set the greeting only if you want to display the first green section
 greeting:
   title: Welcome to Aude esse Magni!  
-  text: I hope you enjoy your time
+  text: A community that strive to make our world a better place for everyone.
 # - title for your blog's featured posts
-features-title: Featured topics
+features-title: Important topics
 # - displayed at the bottom
 closing-head: I hope you feel inspired
-closing-para: Have a wonderful day. Stay strong!
+closing-para: Stay strong!
 
 # on all pages (and the first three you list display with greeting, if included)
 social:
@@ -40,7 +40,7 @@ social:
   #google-plus-square: https://plus.google.com/
   email: /contact/
   #flickr:
-  instagram: https://instagram.com/lgabrielm/
+  #instagram: https://instagram.com/lgabrielm/
   #youtube-square:
   #spotify:
   #stack-overflow:
