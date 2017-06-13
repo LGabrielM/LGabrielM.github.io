@@ -10,3 +10,5 @@ comments: true
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=YhA0GVi_N4E&list=WL&index=37" frameborder="0"> </iframe>
+
+This is an interesting video by [Nerdwriter](https://www.youtube.com/user/Nerdwriter1).
