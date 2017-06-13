@@ -4,7 +4,7 @@ title: "ΤεΤέλεσται"
 date: 2017-06-13
 excerpt: "This short essay discusses how our humanity binds us to freedom."
 tags: [philosophy, short,  VL]
-feature: tete.JPG
+feature: file:///Users/LG/Documents/jekyll-stuff/LGabrielM.github.io/assets/img/tete.JPG
 comments: true
 ---
 
