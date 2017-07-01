@@ -22,4 +22,6 @@ Statement: Perfection can never be achieved by humans.
 	- It doesn't mean that whatever a person does, it will always be perfect because *determinism*. It means that considering **every possibility** determined by **all circumstances**, if the person was the **most effective possible** in achieving its objective, this is **perfection**.
 		- Furthermore, because we can't know everything (every possibility, circumstance, effectivity), we can say with confidence (based on whatever data we have) that an individual achieved **perfection** or not.
  
- Yet, any human perfection is temporary and can always be improved, because humans have cognition to process more and more data, which allows us to push ourselves forward/deeper in the spectrum of **human perfection**. That is our *Freedom of Self*.
+ Yet, any human perfection is temporary and can always be improved, because humans have cognition to process more and more data, which allows us to push ourselves forward/deeper in the spectrum of **human perfection**. That is our *Freedom of Self*.  
+ 
+ -*VL*
