@@ -2,7 +2,7 @@
 layout: post
 title: "ΤεΤέλεσται"
 date: 2017-06-13
-excerpt: "This short essay discusses how our humanity binds us to freedom."
+excerpt: "How our humanity binds us to freedom."
 tags: [philosophy, short,  VL]
 comments: true
 ---
