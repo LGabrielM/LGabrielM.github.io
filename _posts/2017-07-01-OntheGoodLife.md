@@ -2,7 +2,7 @@
 layout: post
 title: "On the Good Life"
 date: 2017-07-01
-excerpt: "Discussing the pursuit of of the Good Life"
+excerpt: "Discussing the pursuit of the Good Life"
 tags: [philosophy, medium, Wolf]
 comments: true
 ---
