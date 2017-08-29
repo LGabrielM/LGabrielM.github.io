@@ -3,7 +3,7 @@ layout: post
 title: "Ethics of Invisibility"
 date: 2017-08-28
 excerpt: "Discussing the significance of invisibility"
-tags: [philosophy, medium, UV]
+tags: [philosophy, medium, 3]
 comments: true
 ---
 
@@ -17,8 +17,7 @@ because people choose not to see me."
 
 We turn to ethics in the moments when we are confronted with our darker selves.  We sense that something is wrong, whether it’s us or something out there.  Ethics is the way we strive for our better self.  It is for those who recognize their fallibility as human beings in juxtaposition to a world that is continuously expanding right before their eyes.  As wonderful as the world is, it brings also with it the problem of misunderstanding.  With such a vast scope, there is much that often goes unattended to by our perception.  To some, this information doesn’t even exist.  They simply say that what they know is all there is to know and the rest is nonsense.  They tend to live in a dream-like world as a result of it.  There is often talk in certain writings about dreams, but do not be mistaken.  The dreams they speak of are not peaceful ones.  They are ones built on willful ignorance and invisibility.  Ralph Ellison, who brilliantly describes the phenomenon of invisibility in *The Invisible Man*, puts to words what people know solely from experience.  To him, invisibility is the result of people’s refusal to see him.  To the dreamer, the mere recognition of his existence turns the dream into “a nightmare which the sleeper tries with all his strength to destroy”.  Yet, no matter how invisible they are the subjects are still very much real.  They have a consciousness.  To deprive people of such is the cruel nature of our world, but it doesn’t have to be.  Being human doesn’t necessitate complete blindness.
 
-![Diagram]({{ site.url }}/assets/img/diagramethicsinvis.png "Diagram")
-
+![Diagram]({{ site.url }}/assets/img/diagramethicsinvis.png "Diagram")  
 
 Typically when we speak of ethics we turn to Aristotle, Kant, Mill, even the Buddha.  Each with their own conception of how we should act in the world we inhabit.  Even with different responses, there is still a shared understanding of the components that are taken into account when forming their ethical decisions.  Actions and intentions, it is from these two spheres that our individual conceptions of ethics are derived.  In-between the right actions and the right intentions is the ethical viewpoint we should be aiming for.  To most though, this in-between viewpoint is half-dark, half invisible.  Only half is light.  Only half is visible.  
   
@@ -36,3 +35,4 @@ Once you’ve gotten a grasp of yourself, it is time to widen your *perception* 
 
 When their is less darkness surrounding our minds and our eyes will we be able to *act* more efficiently.  Hopefully, in a way that brings together both the right intentions and right actions.  It must be our goal to act with the purpose of achieving a perfect ideal.  In this process of constantly struggling to bring out a better future will we also be able to achieve some semblance of good.  
 	
+-3
