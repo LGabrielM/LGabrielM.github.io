@@ -3,7 +3,7 @@ layout: post
 title: "Ethics of Invisibility"
 date: 2017-08-28
 excerpt: "Discussing the significance of invisibility"
-tags: [philosophy, medium, 3]
+tags: [philosophy, medium, ]
 comments: true
 ---
 
