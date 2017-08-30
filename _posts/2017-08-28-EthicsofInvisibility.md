@@ -3,7 +3,7 @@ layout: post
 title: "Ethics of Invisibility"
 date: 2017-08-28
 excerpt: "Discussing the significance of invisibility"
-tags: [philosophy, medium, ]
+tags: [philosophy, medium, Singh]
 comments: true
 ---
 
@@ -35,4 +35,4 @@ Once you’ve gotten a grasp of yourself, it is time to widen your *perception* 
 
 When their is less darkness surrounding our minds and our eyes will we be able to *act* more efficiently.  Hopefully, in a way that brings together both the right intentions and right actions.  It must be our goal to act with the purpose of achieving a perfect ideal.  In this process of constantly struggling to bring out a better future will we also be able to achieve some semblance of good.  
 	
--3
+-Singh
