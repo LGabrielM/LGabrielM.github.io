@@ -1,0 +1,28 @@
+---
+layout: post
+title: "On Seeing Beauty"
+date: 2017-09-06
+excerpt: "Evidentiating the advantages of seeing beauty"
+tags: [philosophy, motivation, medium, Lukas Clearwater]
+comments: true
+---
+
+On Seeing Beauty 
+
+Life is a roller coaster as the phrase goes. There seems to be some truth to that statement. There's an ebb and flow and while that definitely keeps it interesting it can also be frustrating. This inconsistent repetitiveness can lead one to feel unsubstantiated and unsatisfied. There is, however, an aspect of the world that is often overlooked, which can help in these moments of an undertow: that is beauty. The beauty of the world and everything in it. It's the acknowledgment of this beauty that can be a reminder that even though things may be tough now, they will turn around eventually, simply because that's the way of the tide. This goes beyond life pursuit and personal growth, and it reveals something about the nature of pure survival. Sometimes the situation cannot be changed and in that point you can only settle in and “wait for morning” as outdoor survivalist Bear Grylls says. So how? How do you find this “beauty” and how does that help increase perseverance?  
+
+Beauty in the way I want to work with right now is a flexible fluid concept. It is different for every person and while there may be overlap between people, there is no object or instant that I can point to and definitely state it/that is beautiful for every person. It can be a sight, a sound, and emotion, a thought. What matters is the presence of an appreciation for the experience itself. In some ways beauty can act a little bit like a distraction, a brief sanctuary from the terrors of whatever challenges besiege you. It's proof that no matter how horrible things are there is always a bit of good somewhere. Devotion to the idea that there is no good anywhere is unfruitful, easily condemned, and not helpful to anyone trying to get out of tough times.  
+
+This should not be confused with optimism. The goal is not to arrive at the idea that the glass is half-empty, half-full, or what have you. The glass simply is filled to the level that it is. One does not have to believe that the tough times are simply a blessing in-disguise, but merely that there is some beauty and good somewhere along with the bad. A reminder of this brews resilience and perseverance in the person. It is perseverance that enables a person to endure harsh conditions, survive, and achieve what was previously called “impossible.” Beauty is the inspiration of hope; hope is the fuel of perseverance; perseverance channels and encourages the person toward success.  
+
+Beauty not only encourages momentum through adversity but also through intensity. Observance that there is beauty in spite of experiencing an ugly situation leads to an expanded perspective. This is from an admittance and acceptance that there is beauty beyond the self in the world itself. In the natural world there are flowers, rock formations, and star clusters that leave one in a state of literal awe. In our society there are people volunteering for charities, going out of their way to help others, and trying to help others that are in a slump selflessly. That too is a form of beauty. It is the goodness of existence, the aspect that brings stuff together and expresses appreciation for what is there solely in the present.  
+
+Beauty points inward as well. For if a person looks outside of themselves and bears witness to something beautiful, does that not mean that there was some good, some beauty, already in the person, which allowed them to appreciate the beauty that lied elsewhere?  
+
+On both fronts a very important fact about the nature of beauty arises. Beauty does not exist on a numerical scale and it does not have to compete with ugliness. No matter how much ugliness there is, how close the glass is to being empty, the existence of even a single drop pays credence to the fact that ugliness, the opposite of goodness and beauty, is not the full picture. If you look hard enough with an open-mind you will always be able to see some beauty. And in a tough situation that may be all you need to push through, because it also means the possibility, that things will get better, exists.  
+
+All of this regarding beauty stems from its very nature. Beauty and goodness bring everything together, while that which is evil pulls things apart. The nature of greed, selfishness, jealousy, and so forth are unstable states and so pull people away from each other, themselves, and bring only decay. While goodness as generosity, selflessness, and kindness bring individual people and entities together into stable relationships of mutualistic growth. To say there is no good or beauty anywhere is then to state an oxymoron. It would be as building an edifice without foundation, mortar, or nails. Such a structure would be unstable and could not ever stand. An attempt for such a construction would instantly yield cracks.  
+
+Although just because a world absent of beauty is not a default, that’s not to say its always easy to see beauty, nor to assist in it. It’s not a one time thing but a workout, a personal workout of individual growth. Some days opportunities are presented to us directly, but others we must track them down ourselves. It should, however, be reassuring that no matter how long it takes us, so long as we keep the course we will find beauty.  
+  
+-*Lukas Clearwater*
